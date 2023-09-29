@@ -7,3 +7,7 @@ A webpage template to demonstrate flexbox in CSS. The webpage is currently fille
 ## Link
 
 Live Site: [landing-page](https://nishadnp.github.io/landing-page/)
+
+## Note
+
+Currently, this landing page template is not optimized to view on mobile devices.
